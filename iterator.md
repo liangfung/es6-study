@@ -1,5 +1,4 @@
 # es6笔记—iterator接口
-
 具备原生iterator接口的数据类型
 1. String
 2. Array
@@ -8,7 +7,6 @@
 5. arguments对象
 6. nodeList对象
 7. TypedArray
-
 
 ### 什么是Iterator（遍历器）
 
